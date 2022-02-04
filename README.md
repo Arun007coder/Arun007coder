@@ -1,4 +1,4 @@
-![Banner](assets/Banner.png)
+![banner](assets/Banner.png)
 
 <!--Intro Text-->
 
