@@ -52,7 +52,7 @@ Hello, I'm Arun. I am 14 years old. I am currently working on SectorOS, a small 
  
 # ⭐ Top repo
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS&theme=radical)](https://github.com/arun007coder/wikifox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS&theme=radical)](https://github.com/arun007coder/SectorOS)
 
  <hr>
 
