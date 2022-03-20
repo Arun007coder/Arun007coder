@@ -4,9 +4,20 @@
 
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230070F3&size=24&height=35&lines=Hello%2C+I+am+Arun+Krishna+👋;I+am+a+developer!)
 
-Hello, I'm Arun. I am 14 years old. I am currently working on SectorOS, a small OS written in C++. My [website](https://arun007coder.netlify.app/).
 
-<br>
+Hello, i am Arun Krishna. Known as [Arun007Coder](https://github.com/Arun007coder/Arun007coder) in github. I am currently working on SectorOS, a small OS written in C++. I like to make Operating system, automated scripts, etc... Here is [website](https://arun007coder.netlify.app/)!
+
+I like to make programs in :
+
+1. Intel x86 assembly
+2. C++
+3. Shell script
+4. C
+5. C#
+6. Python
+7. java
+8. JavaScript
+
 <br>
 <br>
 
@@ -51,7 +62,7 @@ Hello, I'm Arun. I am 14 years old. I am currently working on SectorOS, a small 
  
 # ⭐ Top repo
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS&theme=radical)](https://github.com/arun007coder/wikifox)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS&theme=radical)](https://github.com/arun007coder/SectorOS)
 
  <hr>
 
