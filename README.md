@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+![banner](assets/banner.png)
 
 <!--Intro Text-->
 
@@ -7,7 +7,6 @@
 Hello, I'm Arun. I am 14 years old. I am currently working on SectorOS, a small OS written in C++. My [website](https://arun007coder.netlify.app/).
 
 <br>
-<a href="https://www.buymeacoffee.com/commh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a><br>
 <br>
 <br>
 
