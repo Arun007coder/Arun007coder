@@ -62,7 +62,7 @@ I like to make programs in :
  
 # ⭐ Top repo
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS&theme=radical)](https://github.com/arun007coder/SectorOS-RE2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS-RE2&theme=radical)](https://github.com/arun007coder/SectorOS-RE2)
 
  <hr>
 
