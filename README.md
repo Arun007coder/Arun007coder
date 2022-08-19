@@ -36,12 +36,12 @@ I like to make programs in :
 <table>
   <tr>
     <td valign="center">
-        ✹ I’m currently working on SectorOS 🔭 <br>
+        ✹ I’m currently working on SectorOS RE2 🔭 <br>
         ✦ I’m currently learning Python, Java, Javascript 🌱 <br>
-        ❂ Ask me about C++ 💬 <br>
-        ❃ How to reach me: deepalali1007agali@gmail.com 📫 <br>
+        ❂ Ask me about C 💬 <br>
+        ❃ How to reach me: arun007coder@gmail.com 📫 <br>
         ✫  Pronouns: he/him 😄<br>
-        ⚝  Fun fact: I'm just 14 ⚡<br>
+        ⚝  Fun fact: I'm just 15 ⚡<br>
     </td>
     <td>
         <img align="left" src="assets/macbook.svg" width="312px" heigth="188px" />
@@ -62,7 +62,7 @@ I like to make programs in :
  
 # ⭐ Top repo
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS&theme=radical)](https://github.com/arun007coder/SectorOS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS&theme=radical)](https://github.com/arun007coder/SectorOS-RE2)
 
  <hr>
 
