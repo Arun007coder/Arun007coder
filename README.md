@@ -10,9 +10,9 @@ Hello, i am Arun Krishna. Known as [Arun007Coder](https://github.com/Arun007code
 I like to make programs in :
 
 1. Intel x86 assembly
-2. C++
+2. C
 3. Shell script
-4. C
+4. C++
 5. C#
 6. Python
 7. java
@@ -36,12 +36,11 @@ I like to make programs in :
 <table>
   <tr>
     <td valign="center">
-        ✹ I’m currently working on SectorOS RE2 🔭 <br>
-        ✦ I’m currently learning Python, Java, Javascript 🌱 <br>
+        ✹ I’m currently working on SectorOS RW4 🔭 <br>
         ❂ Ask me about C 💬 <br>
         ❃ How to reach me: arun007coder@gmail.com 📫 <br>
         ✫  Pronouns: he/him 😄<br>
-        ⚝  Fun fact: I'm just 15 ⚡<br>
+        ⚝  Fun fact: I'm just 16 ⚡<br>
     </td>
     <td>
         <img align="left" src="assets/macbook.svg" width="312px" heigth="188px" />
@@ -62,7 +61,7 @@ I like to make programs in :
  
 # ⭐ Top repo
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS-RE2&theme=radical)](https://github.com/arun007coder/SectorOS-RE2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arun007coder&repo=SectorOS-RE2&theme=radical)](https://github.com/arun007coder/SectorOS-RW4)
 
  <hr>
 
@@ -70,6 +69,6 @@ I like to make programs in :
 
 ## ✌️ Me at the internet
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: arun007coder@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun007coder@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/commh007)
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCxag4P7WvIwKSiMzd8DLpbg)
